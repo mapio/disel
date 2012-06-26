@@ -11,7 +11,7 @@ Observe that "programming" here is to be understood in a *broad sense*: the fram
 
 ## Design phase 
 
-The project is in a *design* phase, please see the [wiki](https://github.com/mapio/disel/wiki/) for some very preliminary draft.
+The project is in a *design* phase, please see the [wiki](https://github.com/mapio/disel/wiki) for some very preliminary draft.
 
 Any **help will be appreciated**, if you want to collaborate (to the *desing*, *developement*, or *testing* phase) feel free to [fork](https://github.com/mapio/disel/fork_select) and request a *pull* if you feel so inclined.
 
