@@ -2,9 +2,9 @@
 
 The **disel** framweork (Department of Informatics Simplified Environment for Laboraoties) aims to create an environment that will allow computer science students to concentrate on *conceptual aspects of prgramming* by providing a simplified developement environment.
 
-This framework wants to make *easy* (and *fun*) for students to *practice* programming by hiding the technical details usually involved in setting up (installing and configuring) the development (and *testing*) toolchain and using its complex and diverse tools.
+This framework wants to make *easy* (and *fun*) for students to **practice** programming by hiding the technical details usually involved in setting up (installing and configuring) the development (and *testing*) toolchain and using its complex and diverse tools.
 
-Even if the proficiency with the *command line* and the ability to manage and use complex software are *very important (and unavoidable) skills* of a computer science student, we believe that adding such requirements to first year programming classes often *tends to hide the conceptual aspects* of the discipline and *discourages from practicing*.
+Even if the proficiency with the *command line* and the ability to manage and use complex software are *very important (and unavoidable) skills* of a computer science student, we believe that imposing such requirements to first year programming classes often *tends to hide the conceptual aspects* of the discipline and *discourages from practicing* – a more disastrous outcome than delaying the achievement of more technical skills.
 
 ## Design phase 
 
